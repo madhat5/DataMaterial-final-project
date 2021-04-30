@@ -36,6 +36,6 @@ function myLoop() { //  create a loop function
         if (i < data.length - 1) { //  if the counter < 10, call the loop function
             myLoop(); //  ..  again which will trigger another 
         } //  ..  setTimeout()
-    }, 250)
+    }, 200)
 }
 
