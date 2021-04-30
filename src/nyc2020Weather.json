@@ -1,0 +1,2929 @@
+[{
+    "key": 1,
+    "date": "2020-01-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.05,
+    "tempMax": 5,
+    "tempMin": 1.1,
+    "spnNote": "A3"
+}, {
+    "key": 2,
+    "date": "2020-01-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 9.4,
+    "tempMin": 0.6,
+    "spnNote": "B4"
+}, {
+    "key": 3,
+    "date": "2020-01-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 9.4,
+    "tempMin": 6.7,
+    "spnNote": "B4"
+}, {
+    "key": 4,
+    "date": "2020-01-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.8,
+    "tempMax": 10.6,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 5,
+    "date": "2020-01-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.65,
+    "tempMax": 5.6,
+    "tempMin": 1.7,
+    "spnNote": "B3"
+}, {
+    "key": 6,
+    "date": "2020-01-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.6,
+    "tempMax": 7.2,
+    "tempMin": 0,
+    "spnNote": "B3"
+}, {
+    "key": 7,
+    "date": "2020-01-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.7,
+    "tempMax": 7.2,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 8,
+    "date": "2020-01-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.75,
+    "tempMax": 5.6,
+    "tempMin": -2.1,
+    "spnNote": "A3"
+}, {
+    "key": 9,
+    "date": "2020-01-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -1.9,
+    "tempMax": 1.1,
+    "tempMin": -4.9,
+    "spnNote": "A2"
+}, {
+    "key": 10,
+    "date": "2020-01-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.7,
+    "tempMax": 12.8,
+    "tempMin": 0.6,
+    "spnNote": "B4"
+}, {
+    "key": 11,
+    "date": "2020-01-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.6,
+    "tempMax": 20.6,
+    "tempMin": 10.6,
+    "spnNote": "D6"
+}, {
+    "key": 12,
+    "date": "2020-01-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.05,
+    "tempMax": 20,
+    "tempMin": 6.1,
+    "spnNote": "C6"
+}, {
+    "key": 13,
+    "date": "2020-01-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.3,
+    "tempMax": 7.8,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 14,
+    "date": "2020-01-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.85,
+    "tempMax": 7.8,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 15,
+    "date": "2020-01-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 10,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 16,
+    "date": "2020-01-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 9.4,
+    "tempMin": 0.6,
+    "spnNote": "B4"
+}, {
+    "key": 17,
+    "date": "2020-01-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -2.7,
+    "tempMax": 0.6,
+    "tempMin": -6,
+    "spnNote": "A2"
+}, {
+    "key": 18,
+    "date": "2020-01-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -1.9,
+    "tempMax": 2.8,
+    "tempMin": -6.6,
+    "spnNote": "A2"
+}, {
+    "key": 19,
+    "date": "2020-01-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.7,
+    "tempMax": 6.1,
+    "tempMin": -2.7,
+    "spnNote": "A3"
+}, {
+    "key": 20,
+    "date": "2020-01-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -3.55,
+    "tempMax": -0.5,
+    "tempMin": -6.6,
+    "spnNote": "A2"
+}, {
+    "key": 21,
+    "date": "2020-01-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -3,
+    "tempMax": 0.6,
+    "tempMin": -6.6,
+    "spnNote": "A2"
+}, {
+    "key": 22,
+    "date": "2020-01-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -0.25,
+    "tempMax": 3.3,
+    "tempMin": -3.8,
+    "spnNote": "A2"
+}, {
+    "key": 23,
+    "date": "2020-01-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.45,
+    "tempMax": 8.3,
+    "tempMin": 0.6,
+    "spnNote": "B3"
+}, {
+    "key": 24,
+    "date": "2020-01-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.7,
+    "tempMax": 10.6,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 25,
+    "date": "2020-01-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 10.6,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 26,
+    "date": "2020-01-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.55,
+    "tempMax": 7.8,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 27,
+    "date": "2020-01-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 7.2,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 28,
+    "date": "2020-01-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.45,
+    "tempMax": 6.1,
+    "tempMin": 2.8,
+    "spnNote": "B3"
+}, {
+    "key": 29,
+    "date": "2020-01-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.25,
+    "tempMax": 5,
+    "tempMin": -0.5,
+    "spnNote": "A3"
+}, {
+    "key": 30,
+    "date": "2020-01-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -0.25,
+    "tempMax": 3.3,
+    "tempMin": -3.8,
+    "spnNote": "A2"
+}, {
+    "key": 31,
+    "date": "2020-01-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.65,
+    "tempMax": 6.7,
+    "tempMin": 0.6,
+    "spnNote": "B3"
+}, {
+    "key": 32,
+    "date": "2020-02-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.45,
+    "tempMax": 6.1,
+    "tempMin": 2.8,
+    "spnNote": "B3"
+}, {
+    "key": 33,
+    "date": "2020-02-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.45,
+    "tempMax": 7.2,
+    "tempMin": 1.7,
+    "spnNote": "B3"
+}, {
+    "key": 34,
+    "date": "2020-02-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.35,
+    "tempMax": 13.9,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 35,
+    "date": "2020-02-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.1,
+    "tempMax": 16.1,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 36,
+    "date": "2020-02-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.35,
+    "tempMax": 12.8,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 37,
+    "date": "2020-02-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.35,
+    "tempMax": 5,
+    "tempMin": 1.7,
+    "spnNote": "A3"
+}, {
+    "key": 38,
+    "date": "2020-02-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 13.3,
+    "tempMin": 0.6,
+    "spnNote": "B4"
+}, {
+    "key": 39,
+    "date": "2020-02-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2,
+    "tempMax": 5,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 40,
+    "date": "2020-02-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.1,
+    "tempMax": 6.7,
+    "tempMin": -0.5,
+    "spnNote": "A3"
+}, {
+    "key": 41,
+    "date": "2020-02-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 8.3,
+    "tempMin": 5.6,
+    "spnNote": "B4"
+}, {
+    "key": 42,
+    "date": "2020-02-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 8.9,
+    "tempMin": 6.1,
+    "spnNote": "B4"
+}, {
+    "key": 43,
+    "date": "2020-02-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.3,
+    "tempMax": 7.8,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 44,
+    "date": "2020-02-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.75,
+    "tempMax": 6.7,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 45,
+    "date": "2020-02-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -1.65,
+    "tempMax": 4.4,
+    "tempMin": -7.7,
+    "spnNote": "A2"
+}, {
+    "key": 46,
+    "date": "2020-02-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -5.2,
+    "tempMax": -0.5,
+    "tempMin": -9.9,
+    "spnNote": "A1"
+}, {
+    "key": 47,
+    "date": "2020-02-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.85,
+    "tempMax": 6.7,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 48,
+    "date": "2020-02-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 10.6,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 49,
+    "date": "2020-02-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.8,
+    "tempMax": 8.3,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 50,
+    "date": "2020-02-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.45,
+    "tempMax": 8.9,
+    "tempMin": 0,
+    "spnNote": "B3"
+}, {
+    "key": 51,
+    "date": "2020-02-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -0.75,
+    "tempMax": 1.7,
+    "tempMin": -3.2,
+    "spnNote": "A2"
+}, {
+    "key": 52,
+    "date": "2020-02-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -2.45,
+    "tempMax": 1.7,
+    "tempMin": -6.6,
+    "spnNote": "A2"
+}, {
+    "key": 53,
+    "date": "2020-02-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.5,
+    "tempMax": 10,
+    "tempMin": -1,
+    "spnNote": "B3"
+}, {
+    "key": 54,
+    "date": "2020-02-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.6,
+    "tempMax": 13.3,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 55,
+    "date": "2020-02-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.85,
+    "tempMax": 16.7,
+    "tempMin": 5,
+    "spnNote": "C5"
+}, {
+    "key": 56,
+    "date": "2020-02-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.75,
+    "tempMax": 11.7,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 57,
+    "date": "2020-02-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 8.9,
+    "tempMin": 6.1,
+    "spnNote": "B4"
+}, {
+    "key": 58,
+    "date": "2020-02-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.8,
+    "tempMax": 6.1,
+    "tempMin": -0.5,
+    "spnNote": "A3"
+}, {
+    "key": 59,
+    "date": "2020-02-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2,
+    "tempMax": 5.6,
+    "tempMin": -1.6,
+    "spnNote": "A3"
+}, {
+    "key": 60,
+    "date": "2020-02-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -1.05,
+    "tempMax": 1.7,
+    "tempMin": -3.8,
+    "spnNote": "A2"
+}, {
+    "key": 61,
+    "date": "2020-03-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.45,
+    "tempMax": 6.7,
+    "tempMin": -3.8,
+    "spnNote": "A3"
+}, {
+    "key": 62,
+    "date": "2020-03-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.4,
+    "tempMax": 14.4,
+    "tempMin": 4.4,
+    "spnNote": "C5"
+}, {
+    "key": 63,
+    "date": "2020-03-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.2,
+    "tempMax": 15,
+    "tempMin": 9.4,
+    "spnNote": "C5"
+}, {
+    "key": 64,
+    "date": "2020-03-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.25,
+    "tempMax": 13.3,
+    "tempMin": 7.2,
+    "spnNote": "C5"
+}, {
+    "key": 65,
+    "date": "2020-03-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.25,
+    "tempMax": 10.6,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 66,
+    "date": "2020-03-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 7.2,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 67,
+    "date": "2020-03-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.55,
+    "tempMax": 8.9,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 68,
+    "date": "2020-03-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.35,
+    "tempMax": 15,
+    "tempMin": 1.7,
+    "spnNote": "B4"
+}, {
+    "key": 69,
+    "date": "2020-03-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.25,
+    "tempMax": 22.2,
+    "tempMin": 8.3,
+    "spnNote": "D6"
+}, {
+    "key": 70,
+    "date": "2020-03-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.25,
+    "tempMax": 18.3,
+    "tempMin": 12.2,
+    "spnNote": "D6"
+}, {
+    "key": 71,
+    "date": "2020-03-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10,
+    "tempMax": 13.9,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 72,
+    "date": "2020-03-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 10,
+    "tempMin": 6.1,
+    "spnNote": "B4"
+}, {
+    "key": 73,
+    "date": "2020-03-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.15,
+    "tempMax": 21.1,
+    "tempMin": 7.2,
+    "spnNote": "C6"
+}, {
+    "key": 74,
+    "date": "2020-03-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10,
+    "tempMax": 13.9,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 75,
+    "date": "2020-03-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.3,
+    "tempMax": 12.2,
+    "tempMin": 4.4,
+    "spnNote": "B4"
+}, {
+    "key": 76,
+    "date": "2020-03-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.9,
+    "tempMax": 7.2,
+    "tempMin": 0.6,
+    "spnNote": "B3"
+}, {
+    "key": 77,
+    "date": "2020-03-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.6,
+    "tempMax": 12.2,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 78,
+    "date": "2020-03-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.6,
+    "tempMax": 12.2,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 79,
+    "date": "2020-03-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 11.1,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 80,
+    "date": "2020-03-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.65,
+    "tempMax": 25,
+    "tempMin": 8.3,
+    "spnNote": "D6"
+}, {
+    "key": 81,
+    "date": "2020-03-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.35,
+    "tempMax": 18.3,
+    "tempMin": 4.4,
+    "spnNote": "C5"
+}, {
+    "key": 82,
+    "date": "2020-03-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.9,
+    "tempMax": 7.2,
+    "tempMin": 0.6,
+    "spnNote": "B3"
+}, {
+    "key": 83,
+    "date": "2020-03-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.6,
+    "tempMax": 5,
+    "tempMin": 2.2,
+    "spnNote": "B3"
+}, {
+    "key": 84,
+    "date": "2020-03-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 12.8,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 85,
+    "date": "2020-03-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.8,
+    "tempMax": 7.2,
+    "tempMin": 4.4,
+    "spnNote": "B4"
+}, {
+    "key": 86,
+    "date": "2020-03-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.45,
+    "tempMax": 15.6,
+    "tempMin": 3.3,
+    "spnNote": "C5"
+}, {
+    "key": 87,
+    "date": "2020-03-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.3,
+    "tempMax": 20.6,
+    "tempMin": 10,
+    "spnNote": "D6"
+}, {
+    "key": 88,
+    "date": "2020-03-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.45,
+    "tempMax": 12.2,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 89,
+    "date": "2020-03-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 8.3,
+    "tempMin": 6.7,
+    "spnNote": "B4"
+}, {
+    "key": 90,
+    "date": "2020-03-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 11.1,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 91,
+    "date": "2020-03-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.2,
+    "tempMax": 9.4,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 92,
+    "date": "2020-04-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.3,
+    "tempMax": 13.3,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 93,
+    "date": "2020-04-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.85,
+    "tempMax": 14.4,
+    "tempMin": 3.3,
+    "spnNote": "B5"
+}, {
+    "key": 94,
+    "date": "2020-04-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.15,
+    "tempMax": 11.1,
+    "tempMin": 7.2,
+    "spnNote": "B5"
+}, {
+    "key": 95,
+    "date": "2020-04-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.25,
+    "tempMax": 16.7,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 96,
+    "date": "2020-04-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.3,
+    "tempMax": 18.3,
+    "tempMin": 8.3,
+    "spnNote": "C6"
+}, {
+    "key": 97,
+    "date": "2020-04-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.15,
+    "tempMax": 18.9,
+    "tempMin": 9.4,
+    "spnNote": "C6"
+}, {
+    "key": 98,
+    "date": "2020-04-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.55,
+    "tempMax": 20,
+    "tempMin": 11.1,
+    "spnNote": "D6"
+}, {
+    "key": 99,
+    "date": "2020-04-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 17.8,
+    "tempMin": 9.4,
+    "spnNote": "C6"
+}, {
+    "key": 100,
+    "date": "2020-04-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.55,
+    "tempMax": 15,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 101,
+    "date": "2020-04-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.1,
+    "tempMax": 9.4,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 102,
+    "date": "2020-04-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.3,
+    "tempMax": 13.3,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 103,
+    "date": "2020-04-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.95,
+    "tempMax": 17.2,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 104,
+    "date": "2020-04-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.55,
+    "tempMax": 19.4,
+    "tempMin": 11.7,
+    "spnNote": "D6"
+}, {
+    "key": 105,
+    "date": "2020-04-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.95,
+    "tempMax": 15.6,
+    "tempMin": 8.3,
+    "spnNote": "C5"
+}, {
+    "key": 106,
+    "date": "2020-04-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.9,
+    "tempMax": 12.2,
+    "tempMin": 5.6,
+    "spnNote": "B5"
+}, {
+    "key": 107,
+    "date": "2020-04-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.65,
+    "tempMax": 10,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 108,
+    "date": "2020-04-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.4,
+    "tempMax": 10.6,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 109,
+    "date": "2020-04-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.4,
+    "tempMax": 7.8,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 110,
+    "date": "2020-04-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.8,
+    "tempMax": 17.2,
+    "tempMin": 4.4,
+    "spnNote": "C5"
+}, {
+    "key": 111,
+    "date": "2020-04-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.4,
+    "tempMax": 13.9,
+    "tempMin": 8.9,
+    "spnNote": "C5"
+}, {
+    "key": 112,
+    "date": "2020-04-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10,
+    "tempMax": 16.1,
+    "tempMin": 3.9,
+    "spnNote": "C5"
+}, {
+    "key": 113,
+    "date": "2020-04-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.4,
+    "tempMax": 10.6,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 114,
+    "date": "2020-04-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.75,
+    "tempMax": 11.1,
+    "tempMin": 4.4,
+    "spnNote": "B4"
+}, {
+    "key": 115,
+    "date": "2020-04-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.5,
+    "tempMax": 9.4,
+    "tempMin": 5.6,
+    "spnNote": "B4"
+}, {
+    "key": 116,
+    "date": "2020-04-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.5,
+    "tempMax": 18.3,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 117,
+    "date": "2020-04-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.1,
+    "tempMax": 10.6,
+    "tempMin": 5.6,
+    "spnNote": "B4"
+}, {
+    "key": 118,
+    "date": "2020-04-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 10,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 119,
+    "date": "2020-04-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.2,
+    "tempMax": 19.4,
+    "tempMin": 5,
+    "spnNote": "C5"
+}, {
+    "key": 120,
+    "date": "2020-04-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.65,
+    "tempMax": 15,
+    "tempMin": 8.3,
+    "spnNote": "C5"
+}, {
+    "key": 121,
+    "date": "2020-04-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.5,
+    "tempMax": 15.6,
+    "tempMin": 9.4,
+    "spnNote": "C5"
+}, {
+    "key": 122,
+    "date": "2020-05-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.3,
+    "tempMax": 18.9,
+    "tempMin": 11.7,
+    "spnNote": "D6"
+}, {
+    "key": 123,
+    "date": "2020-05-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.7,
+    "tempMax": 22.8,
+    "tempMin": 10.6,
+    "spnNote": "D6"
+}, {
+    "key": 124,
+    "date": "2020-05-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 26.7,
+    "tempMin": 12.2,
+    "spnNote": "D7"
+}, {
+    "key": 125,
+    "date": "2020-05-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.95,
+    "tempMax": 23.9,
+    "tempMin": 10,
+    "spnNote": "D7"
+}, {
+    "key": 126,
+    "date": "2020-05-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.5,
+    "tempMax": 17.2,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 127,
+    "date": "2020-05-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.15,
+    "tempMax": 11.1,
+    "tempMin": 7.2,
+    "spnNote": "B5"
+}, {
+    "key": 128,
+    "date": "2020-05-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 19.4,
+    "tempMin": 7.8,
+    "spnNote": "C6"
+}, {
+    "key": 129,
+    "date": "2020-05-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 13.9,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 130,
+    "date": "2020-05-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 8.9,
+    "tempMin": 1.1,
+    "spnNote": "B4"
+}, {
+    "key": 131,
+    "date": "2020-05-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.85,
+    "tempMax": 17.8,
+    "tempMin": 3.9,
+    "spnNote": "C5"
+}, {
+    "key": 132,
+    "date": "2020-05-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.4,
+    "tempMax": 16.1,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 133,
+    "date": "2020-05-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.55,
+    "tempMax": 15,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 134,
+    "date": "2020-05-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.4,
+    "tempMax": 17.8,
+    "tempMin": 5,
+    "spnNote": "C5"
+}, {
+    "key": 135,
+    "date": "2020-05-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.85,
+    "tempMax": 19.4,
+    "tempMin": 8.3,
+    "spnNote": "C6"
+}, {
+    "key": 136,
+    "date": "2020-05-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.25,
+    "tempMax": 28.9,
+    "tempMin": 15.6,
+    "spnNote": "E8"
+}, {
+    "key": 137,
+    "date": "2020-05-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20,
+    "tempMax": 25,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 138,
+    "date": "2020-05-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.7,
+    "tempMax": 20.6,
+    "tempMin": 12.8,
+    "spnNote": "D6"
+}, {
+    "key": 139,
+    "date": "2020-05-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.65,
+    "tempMax": 21.1,
+    "tempMin": 12.2,
+    "spnNote": "D6"
+}, {
+    "key": 140,
+    "date": "2020-05-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.85,
+    "tempMax": 20,
+    "tempMin": 11.7,
+    "spnNote": "D6"
+}, {
+    "key": 141,
+    "date": "2020-05-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.15,
+    "tempMax": 18.9,
+    "tempMin": 9.4,
+    "spnNote": "C6"
+}, {
+    "key": 142,
+    "date": "2020-05-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.9,
+    "tempMax": 20,
+    "tempMin": 7.8,
+    "spnNote": "C6"
+}, {
+    "key": 143,
+    "date": "2020-05-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.6,
+    "tempMax": 25,
+    "tempMin": 12.2,
+    "spnNote": "D7"
+}, {
+    "key": 144,
+    "date": "2020-05-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.1,
+    "tempMax": 19.4,
+    "tempMin": 12.8,
+    "spnNote": "D6"
+}, {
+    "key": 145,
+    "date": "2020-05-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.25,
+    "tempMax": 19.4,
+    "tempMin": 11.1,
+    "spnNote": "D6"
+}, {
+    "key": 146,
+    "date": "2020-05-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.25,
+    "tempMax": 21.7,
+    "tempMin": 12.8,
+    "spnNote": "D7"
+}, {
+    "key": 147,
+    "date": "2020-05-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20,
+    "tempMax": 25.6,
+    "tempMin": 14.4,
+    "spnNote": "D7"
+}, {
+    "key": 148,
+    "date": "2020-05-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.85,
+    "tempMax": 26.1,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 149,
+    "date": "2020-05-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.1,
+    "tempMax": 24.4,
+    "tempMin": 17.8,
+    "spnNote": "E8"
+}, {
+    "key": 150,
+    "date": "2020-05-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.3,
+    "tempMax": 27.2,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 151,
+    "date": "2020-05-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.3,
+    "tempMax": 27.2,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 152,
+    "date": "2020-05-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.2,
+    "tempMax": 21.1,
+    "tempMin": 13.3,
+    "spnNote": "D7"
+}, {
+    "key": 153,
+    "date": "2020-06-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.85,
+    "tempMax": 21.1,
+    "tempMin": 10.6,
+    "spnNote": "D6"
+}, {
+    "key": 154,
+    "date": "2020-06-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.6,
+    "tempMax": 22.2,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 155,
+    "date": "2020-06-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.85,
+    "tempMax": 26.1,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 156,
+    "date": "2020-06-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.9,
+    "tempMax": 28.9,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 157,
+    "date": "2020-06-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.35,
+    "tempMax": 26.1,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 158,
+    "date": "2020-06-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.55,
+    "tempMax": 30,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 159,
+    "date": "2020-06-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.8,
+    "tempMax": 24.4,
+    "tempMin": 17.2,
+    "spnNote": "D7"
+}, {
+    "key": 160,
+    "date": "2020-06-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.55,
+    "tempMax": 26.1,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 161,
+    "date": "2020-06-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 30.6,
+    "tempMin": 18.3,
+    "spnNote": "E8"
+}, {
+    "key": 162,
+    "date": "2020-06-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.25,
+    "tempMax": 29.4,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 163,
+    "date": "2020-06-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25,
+    "tempMax": 28.9,
+    "tempMin": 21.1,
+    "spnNote": "E8"
+}, {
+    "key": 164,
+    "date": "2020-06-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25,
+    "tempMax": 29.4,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 165,
+    "date": "2020-06-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 23.9,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 166,
+    "date": "2020-06-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.75,
+    "tempMax": 23.3,
+    "tempMin": 12.2,
+    "spnNote": "D7"
+}, {
+    "key": 167,
+    "date": "2020-06-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 23.9,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 168,
+    "date": "2020-06-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.6,
+    "tempMax": 25.6,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 169,
+    "date": "2020-06-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.6,
+    "tempMax": 25.6,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 170,
+    "date": "2020-06-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.65,
+    "tempMax": 25,
+    "tempMin": 18.3,
+    "spnNote": "E8"
+}, {
+    "key": 171,
+    "date": "2020-06-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.3,
+    "tempMax": 28.3,
+    "tempMin": 18.3,
+    "spnNote": "E8"
+}, {
+    "key": 172,
+    "date": "2020-06-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.55,
+    "tempMax": 30,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 173,
+    "date": "2020-06-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.1,
+    "tempMax": 31.1,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 174,
+    "date": "2020-06-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.2,
+    "tempMax": 32.2,
+    "tempMin": 22.2,
+    "spnNote": "F9"
+}, {
+    "key": 175,
+    "date": "2020-06-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.95,
+    "tempMax": 30.6,
+    "tempMin": 23.3,
+    "spnNote": "F9"
+}, {
+    "key": 176,
+    "date": "2020-06-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.65,
+    "tempMax": 30,
+    "tempMin": 23.3,
+    "spnNote": "E9"
+}, {
+    "key": 177,
+    "date": "2020-06-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 30.6,
+    "tempMin": 22.2,
+    "spnNote": "E9"
+}, {
+    "key": 178,
+    "date": "2020-06-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.6,
+    "tempMax": 30.6,
+    "tempMin": 20.6,
+    "spnNote": "E9"
+}, {
+    "key": 179,
+    "date": "2020-06-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 26.7,
+    "tempMin": 22.2,
+    "spnNote": "E8"
+}, {
+    "key": 180,
+    "date": "2020-06-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.65,
+    "tempMax": 32.2,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 181,
+    "date": "2020-06-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 30.6,
+    "tempMin": 18.3,
+    "spnNote": "E8"
+}, {
+    "key": 182,
+    "date": "2020-06-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.05,
+    "tempMax": 26.7,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 183,
+    "date": "2020-07-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.05,
+    "tempMax": 26.7,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 184,
+    "date": "2020-07-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.65,
+    "tempMax": 33.3,
+    "tempMin": 20,
+    "spnNote": "E9"
+}, {
+    "key": 185,
+    "date": "2020-07-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.95,
+    "tempMax": 32.2,
+    "tempMin": 21.7,
+    "spnNote": "F9"
+}, {
+    "key": 186,
+    "date": "2020-07-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.3,
+    "tempMax": 30.6,
+    "tempMin": 20,
+    "spnNote": "E9"
+}, {
+    "key": 187,
+    "date": "2020-07-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.75,
+    "tempMax": 33.3,
+    "tempMin": 22.2,
+    "spnNote": "F9"
+}, {
+    "key": 188,
+    "date": "2020-07-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.35,
+    "tempMax": 35.6,
+    "tempMin": 21.1,
+    "spnNote": "F9"
+}, {
+    "key": 189,
+    "date": "2020-07-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25,
+    "tempMax": 27.8,
+    "tempMin": 22.2,
+    "spnNote": "E8"
+}, {
+    "key": 190,
+    "date": "2020-07-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.1,
+    "tempMax": 28.3,
+    "tempMin": 23.9,
+    "spnNote": "E9"
+}, {
+    "key": 191,
+    "date": "2020-07-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.8,
+    "tempMax": 31.7,
+    "tempMin": 23.9,
+    "spnNote": "F9"
+}, {
+    "key": 192,
+    "date": "2020-07-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.9,
+    "tempMax": 25,
+    "tempMin": 22.8,
+    "spnNote": "E8"
+}, {
+    "key": 193,
+    "date": "2020-07-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.25,
+    "tempMax": 28.3,
+    "tempMin": 22.2,
+    "spnNote": "E9"
+}, {
+    "key": 194,
+    "date": "2020-07-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.15,
+    "tempMax": 30.6,
+    "tempMin": 21.7,
+    "spnNote": "E9"
+}, {
+    "key": 195,
+    "date": "2020-07-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.55,
+    "tempMax": 30,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 196,
+    "date": "2020-07-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.25,
+    "tempMax": 29.4,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 197,
+    "date": "2020-07-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 27.8,
+    "tempMin": 21.1,
+    "spnNote": "E8"
+}, {
+    "key": 198,
+    "date": "2020-07-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.1,
+    "tempMax": 25.6,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 199,
+    "date": "2020-07-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.75,
+    "tempMax": 28.9,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 200,
+    "date": "2020-07-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.5,
+    "tempMax": 32.8,
+    "tempMin": 22.2,
+    "spnNote": "F9"
+}, {
+    "key": 201,
+    "date": "2020-07-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 29.7,
+    "tempMax": 34.4,
+    "tempMin": 25,
+    "spnNote": "F9"
+}, {
+    "key": 202,
+    "date": "2020-07-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 30.55,
+    "tempMax": 33.9,
+    "tempMin": 27.2,
+    "spnNote": "F9"
+}, {
+    "key": 203,
+    "date": "2020-07-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.9,
+    "tempMax": 32.8,
+    "tempMin": 25,
+    "spnNote": "F9"
+}, {
+    "key": 204,
+    "date": "2020-07-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.75,
+    "tempMax": 33.3,
+    "tempMin": 22.2,
+    "spnNote": "F9"
+}, {
+    "key": 205,
+    "date": "2020-07-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 30,
+    "tempMin": 22.8,
+    "spnNote": "E9"
+}, {
+    "key": 206,
+    "date": "2020-07-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 26.7,
+    "tempMin": 22.2,
+    "spnNote": "E8"
+}, {
+    "key": 207,
+    "date": "2020-07-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.65,
+    "tempMax": 31.1,
+    "tempMin": 22.2,
+    "spnNote": "E9"
+}, {
+    "key": 208,
+    "date": "2020-07-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 29.15,
+    "tempMax": 33.3,
+    "tempMin": 25,
+    "spnNote": "F9"
+}, {
+    "key": 209,
+    "date": "2020-07-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 29.15,
+    "tempMax": 33.9,
+    "tempMin": 24.4,
+    "spnNote": "F9"
+}, {
+    "key": 210,
+    "date": "2020-07-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 30.3,
+    "tempMax": 33.9,
+    "tempMin": 26.7,
+    "spnNote": "F9"
+}, {
+    "key": 211,
+    "date": "2020-07-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.6,
+    "tempMax": 32.2,
+    "tempMin": 25,
+    "spnNote": "F9"
+}, {
+    "key": 212,
+    "date": "2020-07-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.3,
+    "tempMax": 33.3,
+    "tempMin": 23.3,
+    "spnNote": "F9"
+}, {
+    "key": 213,
+    "date": "2020-07-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 27.8,
+    "tempMin": 21.1,
+    "spnNote": "E8"
+}, {
+    "key": 214,
+    "date": "2020-08-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 31.1,
+    "tempMin": 21.7,
+    "spnNote": "E9"
+}, {
+    "key": 215,
+    "date": "2020-08-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.35,
+    "tempMax": 31.7,
+    "tempMin": 25,
+    "spnNote": "F9"
+}, {
+    "key": 216,
+    "date": "2020-08-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.1,
+    "tempMax": 31.1,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 217,
+    "date": "2020-08-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.6,
+    "tempMax": 26.1,
+    "tempMin": 21.1,
+    "spnNote": "E8"
+}, {
+    "key": 218,
+    "date": "2020-08-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 30,
+    "tempMin": 22.8,
+    "spnNote": "E9"
+}, {
+    "key": 219,
+    "date": "2020-08-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.75,
+    "tempMax": 27.8,
+    "tempMin": 21.7,
+    "spnNote": "E8"
+}, {
+    "key": 220,
+    "date": "2020-08-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.05,
+    "tempMax": 27.2,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 221,
+    "date": "2020-08-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.15,
+    "tempMax": 28.3,
+    "tempMin": 20,
+    "spnNote": "E8"
+}, {
+    "key": 222,
+    "date": "2020-08-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 30.6,
+    "tempMin": 22.2,
+    "spnNote": "E9"
+}, {
+    "key": 223,
+    "date": "2020-08-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.85,
+    "tempMax": 33.3,
+    "tempMin": 24.4,
+    "spnNote": "F9"
+}, {
+    "key": 224,
+    "date": "2020-08-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.35,
+    "tempMax": 31.1,
+    "tempMin": 25.6,
+    "spnNote": "F9"
+}, {
+    "key": 225,
+    "date": "2020-08-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 27.2,
+    "tempMax": 32.2,
+    "tempMin": 22.2,
+    "spnNote": "F9"
+}, {
+    "key": 226,
+    "date": "2020-08-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.15,
+    "tempMax": 26.1,
+    "tempMin": 22.2,
+    "spnNote": "E8"
+}, {
+    "key": 227,
+    "date": "2020-08-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.4,
+    "tempMax": 30,
+    "tempMin": 22.8,
+    "spnNote": "E9"
+}, {
+    "key": 228,
+    "date": "2020-08-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.3,
+    "tempMax": 28.9,
+    "tempMin": 21.7,
+    "spnNote": "E9"
+}, {
+    "key": 229,
+    "date": "2020-08-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.8,
+    "tempMax": 22.2,
+    "tempMin": 19.4,
+    "spnNote": "D7"
+}, {
+    "key": 230,
+    "date": "2020-08-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.5,
+    "tempMax": 27.2,
+    "tempMin": 17.8,
+    "spnNote": "E8"
+}, {
+    "key": 231,
+    "date": "2020-08-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.5,
+    "tempMax": 27.8,
+    "tempMin": 17.2,
+    "spnNote": "E8"
+}, {
+    "key": 232,
+    "date": "2020-08-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.4,
+    "tempMax": 23.9,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 233,
+    "date": "2020-08-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.7,
+    "tempMax": 26.7,
+    "tempMin": 16.7,
+    "spnNote": "E8"
+}, {
+    "key": 234,
+    "date": "2020-08-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.15,
+    "tempMax": 28.3,
+    "tempMin": 20,
+    "spnNote": "E8"
+}, {
+    "key": 235,
+    "date": "2020-08-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.95,
+    "tempMax": 31.1,
+    "tempMin": 22.8,
+    "spnNote": "F9"
+}, {
+    "key": 236,
+    "date": "2020-08-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.65,
+    "tempMax": 30,
+    "tempMin": 23.3,
+    "spnNote": "E9"
+}, {
+    "key": 237,
+    "date": "2020-08-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 28.05,
+    "tempMax": 32.2,
+    "tempMin": 23.9,
+    "spnNote": "F9"
+}, {
+    "key": 238,
+    "date": "2020-08-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 26.7,
+    "tempMax": 31.7,
+    "tempMin": 21.7,
+    "spnNote": "E9"
+}, {
+    "key": 239,
+    "date": "2020-08-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.2,
+    "tempMax": 25,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 240,
+    "date": "2020-08-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.55,
+    "tempMax": 32.2,
+    "tempMin": 18.9,
+    "spnNote": "E9"
+}, {
+    "key": 241,
+    "date": "2020-08-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.55,
+    "tempMax": 29.4,
+    "tempMin": 21.7,
+    "spnNote": "E9"
+}, {
+    "key": 242,
+    "date": "2020-08-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.7,
+    "tempMax": 27.2,
+    "tempMin": 22.2,
+    "spnNote": "E8"
+}, {
+    "key": 243,
+    "date": "2020-08-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.75,
+    "tempMax": 26.1,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 244,
+    "date": "2020-08-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.1,
+    "tempMax": 25,
+    "tempMin": 17.2,
+    "spnNote": "E8"
+}, {
+    "key": 245,
+    "date": "2020-09-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.95,
+    "tempMax": 25,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 246,
+    "date": "2020-09-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.35,
+    "tempMax": 26.1,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 247,
+    "date": "2020-09-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.25,
+    "tempMax": 29.4,
+    "tempMin": 21.1,
+    "spnNote": "E9"
+}, {
+    "key": 248,
+    "date": "2020-09-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25,
+    "tempMax": 29.4,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 249,
+    "date": "2020-09-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.5,
+    "tempMax": 26.7,
+    "tempMin": 18.3,
+    "spnNote": "E8"
+}, {
+    "key": 250,
+    "date": "2020-09-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.35,
+    "tempMax": 27.8,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 251,
+    "date": "2020-09-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.5,
+    "tempMax": 26.1,
+    "tempMin": 18.9,
+    "spnNote": "E8"
+}, {
+    "key": 252,
+    "date": "2020-09-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 24.45,
+    "tempMax": 28.9,
+    "tempMin": 20,
+    "spnNote": "E8"
+}, {
+    "key": 253,
+    "date": "2020-09-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 23.9,
+    "tempMax": 27.2,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 254,
+    "date": "2020-09-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 25.3,
+    "tempMax": 27.8,
+    "tempMin": 22.8,
+    "spnNote": "E9"
+}, {
+    "key": 255,
+    "date": "2020-09-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.1,
+    "tempMax": 24.4,
+    "tempMin": 17.8,
+    "spnNote": "E8"
+}, {
+    "key": 256,
+    "date": "2020-09-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.7,
+    "tempMax": 23.3,
+    "tempMin": 16.1,
+    "spnNote": "D7"
+}, {
+    "key": 257,
+    "date": "2020-09-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.7,
+    "tempMax": 23.3,
+    "tempMin": 16.1,
+    "spnNote": "D7"
+}, {
+    "key": 258,
+    "date": "2020-09-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 23.9,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 259,
+    "date": "2020-09-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.55,
+    "tempMax": 18.9,
+    "tempMin": 12.2,
+    "spnNote": "D6"
+}, {
+    "key": 260,
+    "date": "2020-09-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.5,
+    "tempMax": 21.7,
+    "tempMin": 13.3,
+    "spnNote": "D7"
+}, {
+    "key": 261,
+    "date": "2020-09-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.85,
+    "tempMax": 23.9,
+    "tempMin": 17.8,
+    "spnNote": "D7"
+}, {
+    "key": 262,
+    "date": "2020-09-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.95,
+    "tempMax": 21.1,
+    "tempMin": 12.8,
+    "spnNote": "D7"
+}, {
+    "key": 263,
+    "date": "2020-09-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 17.2,
+    "tempMin": 10,
+    "spnNote": "C6"
+}, {
+    "key": 264,
+    "date": "2020-09-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.15,
+    "tempMax": 18.3,
+    "tempMin": 10,
+    "spnNote": "C6"
+}, {
+    "key": 265,
+    "date": "2020-09-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.85,
+    "tempMax": 18.3,
+    "tempMin": 9.4,
+    "spnNote": "C6"
+}, {
+    "key": 266,
+    "date": "2020-09-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.3,
+    "tempMax": 21.7,
+    "tempMin": 8.9,
+    "spnNote": "D6"
+}, {
+    "key": 267,
+    "date": "2020-09-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20,
+    "tempMax": 26.1,
+    "tempMin": 13.9,
+    "spnNote": "D7"
+}, {
+    "key": 268,
+    "date": "2020-09-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.3,
+    "tempMax": 23.9,
+    "tempMin": 16.7,
+    "spnNote": "D7"
+}, {
+    "key": 269,
+    "date": "2020-09-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.85,
+    "tempMax": 25,
+    "tempMin": 16.7,
+    "spnNote": "D7"
+}, {
+    "key": 270,
+    "date": "2020-09-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20.8,
+    "tempMax": 23.3,
+    "tempMin": 18.3,
+    "spnNote": "D7"
+}, {
+    "key": 271,
+    "date": "2020-09-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.75,
+    "tempMax": 26.1,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 272,
+    "date": "2020-09-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 22.8,
+    "tempMax": 25,
+    "tempMin": 20.6,
+    "spnNote": "E8"
+}, {
+    "key": 273,
+    "date": "2020-09-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 21.35,
+    "tempMax": 23.3,
+    "tempMin": 19.4,
+    "spnNote": "E8"
+}, {
+    "key": 274,
+    "date": "2020-09-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.65,
+    "tempMax": 21.7,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 275,
+    "date": "2020-10-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.9,
+    "tempMax": 22.2,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 276,
+    "date": "2020-10-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15,
+    "tempMax": 18.3,
+    "tempMin": 11.7,
+    "spnNote": "C6"
+}, {
+    "key": 277,
+    "date": "2020-10-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15,
+    "tempMax": 18.9,
+    "tempMin": 11.1,
+    "spnNote": "C6"
+}, {
+    "key": 278,
+    "date": "2020-10-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15,
+    "tempMax": 19.4,
+    "tempMin": 10.6,
+    "spnNote": "C6"
+}, {
+    "key": 279,
+    "date": "2020-10-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.4,
+    "tempMax": 21.1,
+    "tempMin": 11.7,
+    "spnNote": "D6"
+}, {
+    "key": 280,
+    "date": "2020-10-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.25,
+    "tempMax": 20.6,
+    "tempMin": 13.9,
+    "spnNote": "D7"
+}, {
+    "key": 281,
+    "date": "2020-10-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 23.3,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 282,
+    "date": "2020-10-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.75,
+    "tempMax": 17.8,
+    "tempMin": 11.7,
+    "spnNote": "C6"
+}, {
+    "key": 283,
+    "date": "2020-10-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.3,
+    "tempMax": 20.6,
+    "tempMin": 10,
+    "spnNote": "D6"
+}, {
+    "key": 284,
+    "date": "2020-10-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.05,
+    "tempMax": 21.7,
+    "tempMin": 14.4,
+    "spnNote": "D7"
+}, {
+    "key": 285,
+    "date": "2020-10-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 16.65,
+    "tempMax": 19.4,
+    "tempMin": 13.9,
+    "spnNote": "D6"
+}, {
+    "key": 286,
+    "date": "2020-10-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.65,
+    "tempMax": 13.9,
+    "tempMin": 9.4,
+    "spnNote": "C5"
+}, {
+    "key": 287,
+    "date": "2020-10-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.05,
+    "tempMax": 14.4,
+    "tempMin": 11.7,
+    "spnNote": "C6"
+}, {
+    "key": 288,
+    "date": "2020-10-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.7,
+    "tempMax": 19.4,
+    "tempMin": 10,
+    "spnNote": "C6"
+}, {
+    "key": 289,
+    "date": "2020-10-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.8,
+    "tempMax": 21.7,
+    "tempMin": 13.9,
+    "spnNote": "D7"
+}, {
+    "key": 290,
+    "date": "2020-10-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 18.9,
+    "tempMin": 8.3,
+    "spnNote": "C6"
+}, {
+    "key": 291,
+    "date": "2020-10-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.85,
+    "tempMax": 15,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 292,
+    "date": "2020-10-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.25,
+    "tempMax": 16.7,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 293,
+    "date": "2020-10-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.45,
+    "tempMax": 18.3,
+    "tempMin": 10.6,
+    "spnNote": "C6"
+}, {
+    "key": 294,
+    "date": "2020-10-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.8,
+    "tempMax": 21.7,
+    "tempMin": 13.9,
+    "spnNote": "D7"
+}, {
+    "key": 295,
+    "date": "2020-10-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.5,
+    "tempMax": 20,
+    "tempMin": 15,
+    "spnNote": "D7"
+}, {
+    "key": 296,
+    "date": "2020-10-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.9,
+    "tempMax": 20,
+    "tempMin": 17.8,
+    "spnNote": "D7"
+}, {
+    "key": 297,
+    "date": "2020-10-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.9,
+    "tempMax": 20.6,
+    "tempMin": 17.2,
+    "spnNote": "D7"
+}, {
+    "key": 298,
+    "date": "2020-10-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 14.75,
+    "tempMax": 20.6,
+    "tempMin": 8.9,
+    "spnNote": "C6"
+}, {
+    "key": 299,
+    "date": "2020-10-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.45,
+    "tempMax": 11.7,
+    "tempMin": 7.2,
+    "spnNote": "C5"
+}, {
+    "key": 300,
+    "date": "2020-10-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.8,
+    "tempMax": 15,
+    "tempMin": 10.6,
+    "spnNote": "C6"
+}, {
+    "key": 301,
+    "date": "2020-10-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.05,
+    "tempMax": 15,
+    "tempMin": 11.1,
+    "spnNote": "C6"
+}, {
+    "key": 302,
+    "date": "2020-10-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.5,
+    "tempMax": 13.9,
+    "tempMin": 11.1,
+    "spnNote": "C5"
+}, {
+    "key": 303,
+    "date": "2020-10-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.55,
+    "tempMax": 13.3,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 304,
+    "date": "2020-10-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.55,
+    "tempMax": 8.3,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 305,
+    "date": "2020-10-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.9,
+    "tempMax": 7.8,
+    "tempMin": 0,
+    "spnNote": "B3"
+}, {
+    "key": 306,
+    "date": "2020-11-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.45,
+    "tempMax": 12.8,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 307,
+    "date": "2020-11-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 6.7,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 308,
+    "date": "2020-11-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.05,
+    "tempMax": 11.7,
+    "tempMin": 4.4,
+    "spnNote": "B4"
+}, {
+    "key": 309,
+    "date": "2020-11-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.55,
+    "tempMax": 16.7,
+    "tempMin": 4.4,
+    "spnNote": "C5"
+}, {
+    "key": 310,
+    "date": "2020-11-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.25,
+    "tempMax": 19.4,
+    "tempMin": 11.1,
+    "spnNote": "D6"
+}, {
+    "key": 311,
+    "date": "2020-11-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 17.2,
+    "tempMax": 21.1,
+    "tempMin": 13.3,
+    "spnNote": "D7"
+}, {
+    "key": 312,
+    "date": "2020-11-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.3,
+    "tempMax": 23.3,
+    "tempMin": 13.3,
+    "spnNote": "D7"
+}, {
+    "key": 313,
+    "date": "2020-11-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.6,
+    "tempMax": 23.9,
+    "tempMin": 13.3,
+    "spnNote": "D7"
+}, {
+    "key": 314,
+    "date": "2020-11-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 18.05,
+    "tempMax": 23.9,
+    "tempMin": 12.2,
+    "spnNote": "D7"
+}, {
+    "key": 315,
+    "date": "2020-11-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 19.45,
+    "tempMax": 23.3,
+    "tempMin": 15.6,
+    "spnNote": "D7"
+}, {
+    "key": 316,
+    "date": "2020-11-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 20,
+    "tempMax": 22.2,
+    "tempMin": 17.8,
+    "spnNote": "D7"
+}, {
+    "key": 317,
+    "date": "2020-11-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.9,
+    "tempMax": 20,
+    "tempMin": 7.8,
+    "spnNote": "C6"
+}, {
+    "key": 318,
+    "date": "2020-11-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.15,
+    "tempMax": 10,
+    "tempMin": 8.3,
+    "spnNote": "B5"
+}, {
+    "key": 319,
+    "date": "2020-11-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.35,
+    "tempMax": 11.1,
+    "tempMin": 5.6,
+    "spnNote": "B4"
+}, {
+    "key": 320,
+    "date": "2020-11-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.4,
+    "tempMax": 17.8,
+    "tempMin": 5,
+    "spnNote": "C5"
+}, {
+    "key": 321,
+    "date": "2020-11-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.75,
+    "tempMax": 12.8,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 322,
+    "date": "2020-11-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.1,
+    "tempMax": 10,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 323,
+    "date": "2020-11-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 0.6,
+    "tempMax": 2.2,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 324,
+    "date": "2020-11-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 3.95,
+    "tempMax": 8.9,
+    "tempMin": -1,
+    "spnNote": "B3"
+}, {
+    "key": 325,
+    "date": "2020-11-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.2,
+    "tempMax": 17.2,
+    "tempMin": 7.2,
+    "spnNote": "C5"
+}, {
+    "key": 326,
+    "date": "2020-11-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 17.8,
+    "tempMin": 9.4,
+    "spnNote": "C6"
+}, {
+    "key": 327,
+    "date": "2020-11-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.85,
+    "tempMax": 15,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 328,
+    "date": "2020-11-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.6,
+    "tempMax": 15.6,
+    "tempMin": 5.6,
+    "spnNote": "C5"
+}, {
+    "key": 329,
+    "date": "2020-11-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.95,
+    "tempMax": 8.9,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 330,
+    "date": "2020-11-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.25,
+    "tempMax": 13.3,
+    "tempMin": 7.2,
+    "spnNote": "C5"
+}, {
+    "key": 331,
+    "date": "2020-11-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 15.55,
+    "tempMax": 18.3,
+    "tempMin": 12.8,
+    "spnNote": "D6"
+}, {
+    "key": 332,
+    "date": "2020-11-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.9,
+    "tempMax": 17.2,
+    "tempMin": 10.6,
+    "spnNote": "C6"
+}, {
+    "key": 333,
+    "date": "2020-11-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10,
+    "tempMax": 13.3,
+    "tempMin": 6.7,
+    "spnNote": "C5"
+}, {
+    "key": 334,
+    "date": "2020-11-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.6,
+    "tempMax": 12.2,
+    "tempMin": 5,
+    "spnNote": "B4"
+}, {
+    "key": 335,
+    "date": "2020-11-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 13.6,
+    "tempMax": 17.2,
+    "tempMin": 10,
+    "spnNote": "C6"
+}, {
+    "key": 336,
+    "date": "2020-12-01",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 9.75,
+    "tempMax": 16.7,
+    "tempMin": 2.8,
+    "spnNote": "C5"
+}, {
+    "key": 337,
+    "date": "2020-12-02",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.15,
+    "tempMax": 6.1,
+    "tempMin": 2.2,
+    "spnNote": "B3"
+}, {
+    "key": 338,
+    "date": "2020-12-03",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.85,
+    "tempMax": 10,
+    "tempMin": 1.7,
+    "spnNote": "B4"
+}, {
+    "key": 339,
+    "date": "2020-12-04",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.9,
+    "tempMax": 11.1,
+    "tempMin": 6.7,
+    "spnNote": "B5"
+}, {
+    "key": 340,
+    "date": "2020-12-05",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 6.1,
+    "tempMax": 8.3,
+    "tempMin": 3.9,
+    "spnNote": "B4"
+}, {
+    "key": 341,
+    "date": "2020-12-06",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.5,
+    "tempMax": 4.4,
+    "tempMin": 0.6,
+    "spnNote": "A3"
+}, {
+    "key": 342,
+    "date": "2020-12-07",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.2,
+    "tempMax": 4.4,
+    "tempMin": 0,
+    "spnNote": "A3"
+}, {
+    "key": 343,
+    "date": "2020-12-08",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 0.6,
+    "tempMax": 2.2,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 344,
+    "date": "2020-12-09",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.4,
+    "tempMax": 3.3,
+    "tempMin": -0.5,
+    "spnNote": "A3"
+}, {
+    "key": 345,
+    "date": "2020-12-10",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.8,
+    "tempMax": 9.4,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 346,
+    "date": "2020-12-11",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 8.9,
+    "tempMax": 13.9,
+    "tempMin": 3.9,
+    "spnNote": "B5"
+}, {
+    "key": 347,
+    "date": "2020-12-12",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 11.1,
+    "tempMax": 14.4,
+    "tempMin": 7.8,
+    "spnNote": "C5"
+}, {
+    "key": 348,
+    "date": "2020-12-13",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 12.5,
+    "tempMax": 16.7,
+    "tempMin": 8.3,
+    "spnNote": "C5"
+}, {
+    "key": 349,
+    "date": "2020-12-14",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5,
+    "tempMax": 8.3,
+    "tempMin": 1.7,
+    "spnNote": "B4"
+}, {
+    "key": 350,
+    "date": "2020-12-15",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.45,
+    "tempMax": 3.9,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 351,
+    "date": "2020-12-16",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -2.4,
+    "tempMax": -0.5,
+    "tempMin": -4.3,
+    "spnNote": "A2"
+}, {
+    "key": 352,
+    "date": "2020-12-17",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -1.85,
+    "tempMax": 0.6,
+    "tempMin": -4.3,
+    "spnNote": "A2"
+}, {
+    "key": 353,
+    "date": "2020-12-18",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -2.15,
+    "tempMax": 0,
+    "tempMin": -4.3,
+    "spnNote": "A2"
+}, {
+    "key": 354,
+    "date": "2020-12-19",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -3.3,
+    "tempMax": 0,
+    "tempMin": -6.6,
+    "spnNote": "A2"
+}, {
+    "key": 355,
+    "date": "2020-12-20",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 1.95,
+    "tempMax": 4.4,
+    "tempMin": -0.5,
+    "spnNote": "A3"
+}, {
+    "key": 356,
+    "date": "2020-12-21",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.3,
+    "tempMax": 7.8,
+    "tempMin": 2.8,
+    "spnNote": "B4"
+}, {
+    "key": 357,
+    "date": "2020-12-22",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.55,
+    "tempMax": 7.8,
+    "tempMin": 3.3,
+    "spnNote": "B4"
+}, {
+    "key": 358,
+    "date": "2020-12-23",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 4.7,
+    "tempMax": 7.2,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}, {
+    "key": 359,
+    "date": "2020-12-24",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 10.55,
+    "tempMax": 15,
+    "tempMin": 6.1,
+    "spnNote": "C5"
+}, {
+    "key": 360,
+    "date": "2020-12-25",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 7.25,
+    "tempMax": 16.1,
+    "tempMin": -1.6,
+    "spnNote": "B4"
+}, {
+    "key": 361,
+    "date": "2020-12-26",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -2.15,
+    "tempMax": 0,
+    "tempMin": -4.3,
+    "spnNote": "A2"
+}, {
+    "key": 362,
+    "date": "2020-12-27",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": -0.75,
+    "tempMax": 2.8,
+    "tempMin": -4.3,
+    "spnNote": "A2"
+}, {
+    "key": 363,
+    "date": "2020-12-28",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.85,
+    "tempMax": 10,
+    "tempMin": 1.7,
+    "spnNote": "B4"
+}, {
+    "key": 364,
+    "date": "2020-12-29",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2.55,
+    "tempMax": 6.1,
+    "tempMin": -1,
+    "spnNote": "A3"
+}, {
+    "key": 365,
+    "date": "2020-12-30",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 2,
+    "tempMax": 6.1,
+    "tempMin": -2.1,
+    "spnNote": "A3"
+}, {
+    "key": 366,
+    "date": "2020-12-31",
+    "name": "NY CITY CENTRAL PARK, NY US",
+    "tempAvg": 5.55,
+    "tempMax": 8.9,
+    "tempMin": 2.2,
+    "spnNote": "B4"
+}]
