@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    background: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.play:hover {
+    cursor: pointer;
+}
+
+button {
+    display: inline-block;
+    background-color: #000000;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    padding: 15px 32px;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+}
